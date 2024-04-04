@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing web applications<br>👯 I’m looking to collaborate on Innovative web development projects<br>🤝 I’m looking for help with Solving complex technical challenges<br>🌱 I’m currently learning to stay up-to-date with the latest developments in the React<br>💬 Ask me about Any questions related to React.js, web development<br>⚡ Fun fact I enjoy participating in hackathons
+🔭 currently working on Developing web applications<br>👯 looking to collaborate on Innovative web development projects<br>🤝 looking for help with Solving complex technical challenges<br>🌱 currently learning to stay up-to-date with the latest developments in the React<br>💬 Ask about Any questions related to React.js, web development<br>⚡ Fun fact enjoy participating in hackathons
 
 
 ## 🌐 Socials:
